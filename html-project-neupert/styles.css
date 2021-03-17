@@ -1,0 +1,78 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #f5f5dc;
+    font-size: 100%,
+}
+
+header {
+    background-color: #ffcccb;
+}
+
+main,
+footer {
+	background-color: #f5f5dc;
+}
+
+header {
+	padding: 1.875em;
+}
+
+header h1 {
+	text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 400%;
+}
+
+h2, h3 {
+	margin: 1;
+}
+
+h1 {
+	font-size: 2.5em;
+    margin: 0;
+}
+
+p {
+	padding: 0;
+}
+
+figure {
+	margin: 0;
+	padding: 1em;
+	text-align: center;
+}
+
+figcaption {
+	font-style: italic;
+    font-size: 1em;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+footer p {
+	display: inline-block;
+    font-size: 50%;
+}
+
+img {
+	width: 50%;
+	max-width: 50%;
+}
+
+#productList {
+    font-style: italic;
+    font-size: 1em;
+}
+
+.content {
+    font-size: 1.25em;
+}
+
+.blogPost {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
